@@ -64,8 +64,7 @@ endmodule
 ![sceenshot](https://github.com/user-attachments/assets/12686442-175b-4e94-a13c-89930af1fff1)
 
 **RESULTS**
-THUS,the encoder 8 to 3 is studeid and verified
-
+THUS,the encoder 8 to 3 is studeid and verified.
 
 
 
